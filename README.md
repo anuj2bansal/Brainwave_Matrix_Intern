@@ -1,5 +1,8 @@
 # Store Sales Data Analysis Project
 
+![image](https://github.com/user-attachments/assets/f95aedd5-9944-494e-8a11-b42e7f93ad8d)
+
+
 ## Introduction
 Welcome to the Store Sales Data Analysis project! This repository contains an Excel-based data analysis project focused on understanding sales trends and patterns within a store's dataset. The project provides insights through data cleaning, visualization, and dashboard creation.
 
